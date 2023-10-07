@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#home {
+    width: 100%;
+    height: 750px;
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.one {
+    width: 80%;
+    height: 400px;
+    background-color: blue;
+    overflow: hidden;
+}
+
+.two {
+    width: 500%;
+    height: 100%;
+    background-color: blueviolet;
+    display: flex;
+}
+
+
+
+.slide {
+    width: 20%;
+    height: 100%;
+    background-color: brown;
+    font-size: 80px;
+}
+
+.img-slide {
+    width: 100%;
+    height: 100%;
+}
